@@ -11,3 +11,4 @@ This project is mainly focused to automate my daily work action flows mandatory 
 - https://github.com/kevin-funderburg/AppleScripts
 
 - GIt shortcuts : https://gist.github.com/johnpolacek/69604a1f6861129ef088
+- https://www.durdn.com/blog/2012/11/22/must-have-git-aliases-advanced-examples/
