@@ -10,4 +10,4 @@ This project is mainly focused to automate my daily work action flows mandatory 
 - https://github.com/topics/applescript?l=javascript
 - https://github.com/kevin-funderburg/AppleScripts
 
-- https://gist.github.com/johnpolacek/69604a1f6861129ef088
+- GIt shortcuts : https://gist.github.com/johnpolacek/69604a1f6861129ef088
