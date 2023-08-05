@@ -58,6 +58,8 @@ if [ $? -eq 0 ]; then
     http_code=$(tail -n1 <<< "$verification_response")
 
     if [[ $http_code == 200  ]] ; then
+        osascript -e 'tell application "Close All Apps" to activate'
+        delay 5
         if [[ $last_event == "shutdown" ]] ; then
           osascript -e 'tell app "System Events" to shut down'
         elif [[ $last_event == "sleep" ]] ; then
