@@ -2,7 +2,7 @@ try
     activate
     tell application "Terminal"
         activate
-        do script with command "cd \"" & "/Users/devashreekshukla/Code/New-ATVE/tve-apple-client" & "\" && git checkout develop && git pull"
+        do script with command "cd \"" & "<PATH_TO_YOUR_PROJECT>" & "\" && git checkout develop && git pull"
     end tell
 on error error_message
     beep
